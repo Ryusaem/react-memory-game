@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/memory-react/static/css/main.e02ebf56.css",
-    "main.js": "/memory-react/static/js/main.8c69dc48.js",
+    "main.js": "/memory-react/static/js/main.a11780fe.js",
     "index.html": "/memory-react/index.html",
     "main.e02ebf56.css.map": "/memory-react/static/css/main.e02ebf56.css.map",
-    "main.8c69dc48.js.map": "/memory-react/static/js/main.8c69dc48.js.map"
+    "main.a11780fe.js.map": "/memory-react/static/js/main.a11780fe.js.map"
   },
   "entrypoints": [
     "static/css/main.e02ebf56.css",
-    "static/js/main.8c69dc48.js"
+    "static/js/main.a11780fe.js"
   ]
 }
